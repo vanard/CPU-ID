@@ -23,6 +23,8 @@
     <color name="green">#00C980</color>
 
     <color name="backgroundColor">@color/lightGray</color>
+    <color name="titleColor">@color/black</color>
+    <color name="textColor">@color/darker</color>
 
     <color name="actionBarBackgroundColor">@color/colorPrimary</color>
     <color name="statusBarColor">@color/colorPrimaryDark</color>
